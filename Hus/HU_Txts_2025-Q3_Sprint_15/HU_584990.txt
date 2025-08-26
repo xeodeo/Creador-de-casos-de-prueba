@@ -1,0 +1,9 @@
+Titulo:Tarjetones bolsitas de datos
+
+Descripcion:
+----------------
+Yo como Coordinadora de mercadeo Necesito Poder configurar los tarjetonesPara Que sean parametrizables
+
+Criterios de aceptacion (ID: Custom.6228a8da-4910-4f16-af9d-1f0a5103b7d2):
+----------------
+Los tarjetones de las bolsitas de datos se deben poder configurar similar a los tarjetones que se tienen de paquetes Revisar como se puede reusar la configuración de los paquetes actuales El diseño se debe respetar de acuerdo al mock up enviado de la landing  Para este tipo de producto se debe conservar la funcionalidad del tachado en datos, como se tiene hoy en los paquetes normales Se comparte ejemplo de como se vería desde contenido:

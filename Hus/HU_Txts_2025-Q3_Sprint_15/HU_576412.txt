@@ -1,0 +1,9 @@
+Titulo:No abrir pestañas nuevas
+
+Descripcion:
+----------------
+Yo como Coordinadora de mercadeo Necesito Que cuando un usuario de click en un banner no se abra otra pestañaPara Que no se corte el flujo
+
+Criterios de aceptacion (ID: Custom.6228a8da-4910-4f16-af9d-1f0a5103b7d2):
+----------------
+Cuando el usuario de clic en algún banner de la página web, no se debe abrir una pestaña nueva, sino que debe seguir navegando en la misma pestaña Esto aplica para desktop, ya que en mobile ya funciona correctamente Debe aplicar para todos los banners de la página web

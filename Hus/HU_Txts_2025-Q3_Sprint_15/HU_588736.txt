@@ -1,0 +1,9 @@
+Titulo:Log Validación Fecha de Expedición  - Validación Inicial
+
+Descripcion:
+----------------
+Se debe de guardar todos los intentos del clientes en el proceso de la validación de la fecha de expedición en un log transaccional Hasta antes de enviar el OTP. Este log debe ser consultado en la parte administrativa de Móvil Éxito.  Colocar este nueva consulta en el Menú de Logs con el nombre LogValidacionFecha. Se debe poder filtrar por Línea, Cedula, FechaInicial y FechaFinal de registro, EstadoConsulta. Se debe guardar en el log la siguiente información Identificador (Autonumerico) - Puede ser el GUID que se envía al servicio web, lo importante es que sea Unico. FechaHoraTransaccion Linea Cedula FechaExpedicion (Se muestra enmascara así *******YYYY (Solo se muestra el año.) EstadoValidación (Es estado retornado por el servicio de la GetEstadoValidacionFechaExp ) Si el cliente ya alcanzo los 2 intentos acá el estado podríamos colocarlo como RechazadoPorMaximoIntentos  Request  (La fecha mostrarla enmascarada) Serán vacíos si ya alcanzó los 2 reintentos   Response (Respuesta del servicio) Serán vacíos si ya alcanzó los 2 reintentos
+
+Criterios de aceptacion (ID: Custom.6228a8da-4910-4f16-af9d-1f0a5103b7d2):
+----------------
+na

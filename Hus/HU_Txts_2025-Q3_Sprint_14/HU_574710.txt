@@ -1,0 +1,13 @@
+Titulo:Desplegable información geográfica: Carrito de compras
+
+Descripcion:
+----------------
+Yo como Coordinadora de mercadeo Necesito Tener un desplegablePara La información geográfica
+
+Criterios de aceptacion (ID: Custom.6228a8da-4910-4f16-af9d-1f0a5103b7d2):
+----------------
+En la parte administrativa se debe tener un formulario de Datos donde se pueda subir los departamentos y ciudades en los que aplica el domicilio de la SIM Los departamentos y cuidades deben tener su respectivo código DANE. Esta información se debe poder crear y editar, es decir, personalizar  Se solicita propuesta de diseño alineada a la experiencia
+
+Papa (ID: Custom.6228a8da-4910-4f16-af9d-1f0a5103b7d2):
+----------------
+En la parte administrativa se debe tener un formulario de Datos donde se pueda subir los departamentos y ciudades en los que aplica el domicilio de la SIM Los departamentos y cuidades deben tener su respectivo código DANE. Esta información se debe poder crear y editar, es decir, personalizar  Se solicita propuesta de diseño alineada a la experiencia

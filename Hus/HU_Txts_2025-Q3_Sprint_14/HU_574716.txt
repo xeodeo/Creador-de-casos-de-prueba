@@ -1,0 +1,13 @@
+Titulo:Crear log de solicitudes: Carrito de compras
+
+Descripcion:
+----------------
+Yo como Coordinadora de mercadeo Necesito Crear el log de las solicitudes de SIM Para Poder consultarlos
+
+Criterios de aceptacion (ID: Custom.6228a8da-4910-4f16-af9d-1f0a5103b7d2):
+----------------
+Se debe crear un log en el cual se guarden todas las solicitudes de SIMCard que nos realicen en el portal web, incluyendo todos los estados  Cada solicitud debe tener un código único para identificar el pedido (el mismo de la orden) Debe tener una columna con el estado del pago, el medio de pago usado y el código de aprobación  Y debe tener otra columna donde se pueda ver el resultado del envío de la información a Móvil Éxito usando el servicio web: SolicitudSimCard Este log se debe permitir filtrar por fecha de solicitud, código del pedido, código de autorización de la pasarela, tipo de documento, número de documento, medio de pago y estado del pago Debe tener la opción de exportar
+
+Papa (ID: Custom.6228a8da-4910-4f16-af9d-1f0a5103b7d2):
+----------------
+Se debe crear un log en el cual se guarden todas las solicitudes de SIMCard que nos realicen en el portal web, incluyendo todos los estados  Cada solicitud debe tener un código único para identificar el pedido (el mismo de la orden) Debe tener una columna con el estado del pago, el medio de pago usado y el código de aprobación  Y debe tener otra columna donde se pueda ver el resultado del envío de la información a Móvil Éxito usando el servicio web: SolicitudSimCard Este log se debe permitir filtrar por fecha de solicitud, código del pedido, código de autorización de la pasarela, tipo de documento, número de documento, medio de pago y estado del pago Debe tener la opción de exportar

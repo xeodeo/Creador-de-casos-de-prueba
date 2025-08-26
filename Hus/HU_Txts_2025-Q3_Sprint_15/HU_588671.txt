@@ -1,0 +1,9 @@
+Titulo:Log Validación Fecha de Expedición  - Resultado Final
+
+Descripcion:
+----------------
+Log Validación Fecha de Expedición
+
+Criterios de aceptacion (ID: Custom.6228a8da-4910-4f16-af9d-1f0a5103b7d2):
+----------------
+Se debe de guardar todos los intentos del clientes de la validación de la fecha de expedición en un log transaccional. Este log debe ser consultado en la parte administrativa de Móvil Éxito. Colocar este nueva consulta en el Menú de Logs con el nombre LogResultado ValidacionFecha.  Se debe poder filtrar por Línea, Cedula, FechaInicial y FechaFinal de registro, Estado. Se debe guardar en el log la siguiente información Identificador (Autonumerico) - Puede ser el GUID que se envia al servicio web. FechaHoraTransaccion Linea Cedula FechaExpedicion (Se muestra enmascara así *******YYYY (Solo se muestra el año.) EstadoValidación (Es estado retornado por el servicio de la fecha de expedición ValidacionFechaExpedicion) Request  (La fecha mostrarla enmascarada) Response (Respuesta del servicio)

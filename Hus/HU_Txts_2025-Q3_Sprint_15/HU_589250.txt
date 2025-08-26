@@ -1,0 +1,9 @@
+Titulo:Adicionar pieza en el slider
+
+Descripcion:
+----------------
+Yo como Coordinadora de mercadeo Necesito Adicionar un 5to espacioPara El slider del home
+
+Criterios de aceptacion (ID: Custom.6228a8da-4910-4f16-af9d-1f0a5103b7d2):
+----------------
+Se debe adicionar un espacio en el slider del home, es decir, se deben dejar 5 banners Estos deben seguir funcionando como hasta ahora Esto aplica en mobile y en desktop y debe ser parametrizable, tal cual funciona actualmente

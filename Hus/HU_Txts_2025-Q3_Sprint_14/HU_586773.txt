@@ -1,0 +1,13 @@
+Titulo:Carrito de compras: Acumulación Puntos Colombia
+
+Descripcion:
+----------------
+Yo como Coordinadora de mercadeo Necesito Que el usuario pueda acumular Puntos ColombiaPara La landing de carrito de compras
+
+Criterios de aceptacion (ID: Custom.6228a8da-4910-4f16-af9d-1f0a5103b7d2):
+----------------
+La acumulación de Puntos Colombia en la landing de carrito de compras se debe realizar como se hace actualmente con los otros paquetes
+
+Papa (ID: Custom.6228a8da-4910-4f16-af9d-1f0a5103b7d2):
+----------------
+La acumulación de Puntos Colombia en la landing de carrito de compras se debe realizar como se hace actualmente con los otros paquetes

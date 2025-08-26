@@ -1,0 +1,9 @@
+Titulo:Opción para ir a la landing
+
+Descripcion:
+----------------
+Yo como Coordinadora de mercadeo Necesito Crear al acceso en el menúPara Ir a la landing de bolsitas de datos
+
+Criterios de aceptacion (ID: Custom.6228a8da-4910-4f16-af9d-1f0a5103b7d2):
+----------------
+En el menú principal se debe crear un acceso en la sección Paquetes y recargas que se llame: Bolsitas de datos   En los botones de acceso rápido se debe reemplazar el de Beneficios para ti por el de Bolsitas de datos y debe quedar en la tercera posición:    Este ícono debe ser una bolsita como el de la experiencia de la landing:

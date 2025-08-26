@@ -1,0 +1,13 @@
+Titulo:Carrito de compras - Códigos DANE
+
+Descripcion:
+----------------
+Yo como Coordinadora de mercadeo  Necesito Agregar los códigos DANE Para La experiencia del carrito de compras
+
+Criterios de aceptacion (ID: Custom.6228a8da-4910-4f16-af9d-1f0a5103b7d2):
+----------------
+En la parte administrativa donde se van a definir las cuidades y departamentos para establecer los tiempos de entrega, agregar tambien una opción para ingresar el codigo Dane de la cuidad y el codigo dane del departamento. Cuando se envie la información de la suscripción usando el servicio web de movil exito (Solicitud/simcard) enviar el codigo Dane de la ciudad y del departamento en los datos del request.
+
+Papa (ID: Custom.6228a8da-4910-4f16-af9d-1f0a5103b7d2):
+----------------
+En la parte administrativa donde se van a definir las cuidades y departamentos para establecer los tiempos de entrega, agregar tambien una opción para ingresar el codigo Dane de la cuidad y el codigo dane del departamento. Cuando se envie la información de la suscripción usando el servicio web de movil exito (Solicitud/simcard) enviar el codigo Dane de la ciudad y del departamento en los datos del request.
