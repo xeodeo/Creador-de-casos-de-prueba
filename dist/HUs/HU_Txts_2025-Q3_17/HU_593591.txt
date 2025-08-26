@@ -1,0 +1,9 @@
+Titulo:Color cabezote tarjetones
+
+Descripcion:
+----------------
+Yo como Coordinadora de marketing Necesito Que el cabezote de los tarjetones se pueda cambiar de colorPara Destacar los paquetes en la parrilla
+
+Criterios de aceptacion (ID: Custom.6228a8da-4910-4f16-af9d-1f0a5103b7d2):
+----------------
+​Se debe poder cambiar y parametrizar el color del cabezote y del texto de los tarjetones para destacarlos en la parrilla de producto  Esto debe aplicar por producto, es decir, para cada uno de los paquetes que tenemos creados Esto aplica para todos los paquetes de la página web Aplica para mobile y desktop Esto debe quedar diferente y por paquete:

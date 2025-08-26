@@ -1,0 +1,9 @@
+Titulo:Up selling - Correo de confirmación
+
+Descripcion:
+----------------
+Yo como Coordinadora de mercadeo Necesito Tener un correo de confirmaciónPara Cuando el usuario compre una bolsita + un paquete
+
+Criterios de aceptacion (ID: Custom.6228a8da-4910-4f16-af9d-1f0a5103b7d2):
+----------------
+Cuando un usuario compre de manera exitosa una bolsita sugerida + un paquete, se le debe enviar un correo de confirmación al email ingresado en el formulario.  Se comparto diseño:  Mobile:https://www.figma.com/proto/2baMpHgFa4MJYgqz4262qA/movil-exito-corregido?page-id=9457%3A41356&node-id=11084-32369&viewport=-1297%2C237%2C0.06&t=7RcVSevBInt2tphU-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=11084%3A32369&show-proto-sidebar=1   Desktop: https://www.figma.com/proto/2baMpHgFa4MJYgqz4262qA/movil-exito-corregido?page-id=9457%3A41356&node-id=11084-32303&viewport=-1297%2C237%2C0.06&t=7RcVSevBInt2tphU-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=11084%3A32303&show-proto-sidebar=1

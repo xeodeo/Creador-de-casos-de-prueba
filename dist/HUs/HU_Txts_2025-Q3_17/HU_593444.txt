@@ -1,0 +1,9 @@
+Titulo:Up selling - Recarga, factura y acumulación
+
+Descripcion:
+----------------
+Yo como Coordinadora de mercadeo Necesito Recargar, facturar y acumular Para Las bolsitas sugeridas
+
+Criterios de aceptacion (ID: Custom.6228a8da-4910-4f16-af9d-1f0a5103b7d2):
+----------------
+Luego de que se confirme el pago en la pasarela seleccionada por el usuario, se debe realizar lo siguiente: Se debe recargar el paquete Se debe recargar la bolsita sugerida. Con la misma parametrización que se utiliza para hacer la recarga pero usando el PLU y el precio de venta de la bolsita Se debe consumir el servicio de facturación electrónica para el paquete Se debe consumir el servicio de facturación electrónica para la bolsita Se debe realizar la acumulación pero debe ser única, es decir, por el monto total pagado. Si hay un cupón de descuento se debe aplicar a la compra del paquete, como se hace actualmente En el log de la recarga del paquete debe aparecer el valor del cupón (Como es hoy) En la facturación electrónica del paquete se debe enviar el valor des descuento (Como es hoy). la bolsita se enviará si descuento.

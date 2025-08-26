@@ -1,0 +1,9 @@
+Titulo:Convertir a landing: En TIC confío
+
+Descripcion:
+----------------
+Yo como [Usuario]Necesito [Descripción de lo que necesita el usuario]Para [Razón por la cual quiere resolver esa necesidad]
+
+Criterios de aceptacion (ID: Custom.6228a8da-4910-4f16-af9d-1f0a5103b7d2):
+----------------
+Se debe convertir este PDF en una landing:  https://www.movilexito.com/sites/default/files/archivos/footer/En%20Tic%20Confi%CC%81o.pdf Debe quedar como la landing de Política de Privacidad, es decir, debe contar con un banner parametrizable tanto en imagen como en el texto del título El contenido del texto se debe poder parametrizar Esto aplica para mobile y desktop  Usar como referente en el diseño del texto y títulos la landing de Política de Privacidad. Ejemplo:

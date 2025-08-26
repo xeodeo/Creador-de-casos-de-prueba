@@ -1,0 +1,10 @@
+Titulo:Mejoras Fecha de Expedición
+
+Descripcion:
+----------------
+Mejoras Fecha de Expedición
+
+Criterios de aceptacion (ID: Custom.6228a8da-4910-4f16-af9d-1f0a5103b7d2):
+----------------
+Oportunidades mejora Portal Web Fecha Expedición  - Se podría poner un spinner (Cargando...) para indicar que se está procesando la solicitud al dar clic en Continuar  - Al mostrarse el modal de que la Validación no fue exitosa y dar Click en Reintentar, debería llevar al formulario de validación Sim Card nuevamente. Precargar los datos que se enviaron inicialmente.   - Condiciones:  El registro está en EstadoValidacionFExp !=  Pendiente_validacion_Cliente, Bloqueado o No Existe
+  El modal muestra "Error: No se puede validar esta linea"  Propuesta: mostrar el ícono de warning "Los datos ingresados no tienen ningún pendiente de validacion." - Cambiar el modal de "validando OTP" por uno que indique "Procesando..."

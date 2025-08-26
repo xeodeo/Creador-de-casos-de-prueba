@@ -1,0 +1,9 @@
+Titulo:Mejoras 8 - Debito Automatico
+
+Descripcion:
+----------------
+Mejoras 8 - Debito Automatico
+
+Criterios de aceptacion (ID: Custom.6228a8da-4910-4f16-af9d-1f0a5103b7d2):
+----------------
+Estuvimos revisando la experiencia de débito automático y encontramos estos ajustes:   ·         En la parte de seleccionar un paquete, el carrusel no da la opción de seleccionarlo, hay que encontrar la manera que para el usuario sea diciente que le debe dar clic al paquete, no solo que aparezca el tarjetón en el carrusel. Puede ser que el puntero se convierta en la manito como está actualmente y que al darle clic aparezca una sombrita en el recuadro  ·         En el medio de pago no está la opción de modificar la tarjeta de crédito ingresada    ·         Acá hace falta el signo pesos en el precio del paquete:    ·         Tarjeta debe ir con T minúscula:       Gracias!
